@@ -2,7 +2,7 @@
 A linear regression model is built using the libraries of Python. This model is then trained and tested on student data. Then the score has been predicted on a given data.
 
 
-\
+
 \
 \
 
